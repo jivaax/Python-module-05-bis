@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "alchemist-lab"
+version = "0.1.0"
+description = "Python dependency management exercise"
+authors = ["jwira"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.10,<4.0"
+pandas = ">=2.0,<3.0"
+numpy = ">=1.25,<3.0"
